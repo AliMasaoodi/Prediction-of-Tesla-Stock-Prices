@@ -1,4 +1,4 @@
-8# Tesla Stock Price Prediction using Machine Learning
+# Tesla Stock Price Prediction using Machine Learning
 <h3>Prediction and Analysis of Tesla Stock Prices</h3>
 This repository contains code for predicting the stock prices of Tesla using a Long Short-Term Memory (LSTM) model. The LSTM model is implemented using PyTorch, a popular deep learning framework.
 
